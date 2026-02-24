@@ -1,13 +1,32 @@
 body{
-  font-family: Arial, sans-serif;
+  font-family: Times New Roman;
+  color: #222222;
   margin: 0;
   padding: 20px;
   line-height: 1.5;
+  background-color: #FBF8F1;
 }
 
-header{
+h1{
   text-align: center;
   margin-bottom: 20px;
+  color: #8B5E3C;
+  font-size: 30px;
+}
+
+h2{
+  text-align: left;
+  margin-bottom: 5px;
+  color: #4F7942;
+  font-size: 20px;
+}
+
+h3{
+font-family: "Comic Sans MS";
+text-align: left;
+margin-bottom: 5px;
+color: #4F7942;
+font-size: 20px;
 }
 
 img{
@@ -15,16 +34,6 @@ img{
   height: auto;
   display: block;
   margin: 0 auto;
-}
-
-nav{
-  margin-top: 12px;
-}
-
-nav a{
-  margin: 0 10px;
-  color: #0066cc;
-  text-decoration: none;
 }
 
 table{
